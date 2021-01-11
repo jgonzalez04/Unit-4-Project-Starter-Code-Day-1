@@ -1,0 +1,56 @@
+img {
+    height: 350px;
+}
+
+.img1 {
+    display: flex;
+    justify-content: center;
+}
+
+.img2 {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+    font-family: 'Cormorant', serif;
+}
+
+.menu1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Cormorant', serif;
+}
+
+.menu2 {
+    color: #ff70d7;
+}
+
+.menu3 {
+    color: #708dff;
+}
+
+.menu4 {
+    color: #ffa959;
+}
+
+.pad {
+    padding: 30px;
+}
+
+.item1 {
+    border: 5px dotted #ff70d7;
+}
+
+.item2 {
+    border: 5px dotted #708dff;
+}
+
+.item3 {
+    border: 5px dotted #ffa959;
+}
